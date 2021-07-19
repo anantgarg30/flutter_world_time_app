@@ -12,7 +12,7 @@ Location: London           |  Location: Kolkata
 
 Choosing Locations
 :-------------------------:
-![Screen One](./ss/Locations1.jpg)
+![Screen One](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/Locations1.jpeg)
 
 
 
