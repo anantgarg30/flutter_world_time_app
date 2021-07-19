@@ -5,14 +5,9 @@ A new Flutter application to display the time in different cities of the world.
 
 ## Screenshots from the App
 
-Location: London   |  Location: Kolkata
-:-----------------:|:-----------------:
-![Screen One](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/London.jpeg)  |  ![Screen Two](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/Kolkata.jpeg)
-
-
-Choosing Locations
-:-------------------------:
-![Screen One](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/Locations1.jpeg)
+Location: London     |  Location: Kolkata  | Choosing Locations
+:-------------------:|:-------------------:|:-------------------:
+![Screen One](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/London.jpeg)  |  ![Screen Two](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/Kolkata.jpeg) | ![Screen Three](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/Locations1.jpeg)
 
 
 
@@ -28,6 +23,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
+<!-- 
 ## Download
-You can [download](https://github.com/anantgarg30/flutter_world_time_app/build/app/outputs/flutter-apk/app-release.apk) the application for android and try it yourself.
+You can [download](https://github.com/anantgarg30/flutter_world_time_app/build/app/outputs/flutter-apk/app-release.apk) the application for android and try it yourself. -->
