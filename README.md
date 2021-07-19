@@ -5,8 +5,8 @@ A new Flutter application to display the time in different cities of the world.
 
 ## Screenshots from the App
 
-Location: London           |  Location: Kolkata
-:-------------------------:|:-------------------------:
+Location: London   |  Location: Kolkata
+:-----------------:|:-----------------:
 ![Screen One](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/London.jpeg)  |  ![Screen Two](https://github.com/anantgarg30/flutter_world_time_app/blob/master/ss/Kolkata.jpeg)
 
 
